@@ -1,4 +1,4 @@
-# Proovitöö kasutamise juhend:
+# Proovitöö käivitamise juhend:
 
 1. Laadida alla jar fail (spintek.jar)
 2. Käivitada allalaetud fail käsureal ```java -jar filepath``` (filepath'i asemele salvestatud faili asukoht nt: C:\Users\gette\Downloads\spintek.jar)
